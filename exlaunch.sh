@@ -30,7 +30,7 @@ export MOUNT_PATH="/mnt/k"
 #------------------------
 
 # Settings for deploying over FTP. Used by the deploy-ftp.py script.
-export FTP_IP="192.168.0.235"
+export FTP_IP="192.168.1.5"
 export FTP_PORT="5000"
 export FTP_USERNAME="anonymous"
 export FTP_PASSWORD=""
